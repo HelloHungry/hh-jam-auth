@@ -22,7 +22,7 @@
 	"require-dev": {
 		"kohana/database": "^3.3.0",
 		"phpunit/phpunit": ">=4.0,<6.0",
-		"facebook/php-sdk-v4" : "^5.0",
+		"facebook/graph-sdk": "^5.5",
 		"openbuildings/kohana-test-bootstrap": "^0.2"
 	},
 	"config": {
