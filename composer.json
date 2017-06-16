@@ -22,7 +22,8 @@
 		"composer/installers": "*",
 		"openbuildings/jam": "0.4.*",
 		"kohana/core": "^3.3.0",
-		"kohana/auth": "^3.3.0"
+		"kohana/auth": "^3.3.0",
+		"facebook/graph-sdk": "^5.5"
 	},
 	"config": {
 		"platform": {
