@@ -7,6 +7,11 @@
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
+			"name": "Stefan Petrov",
+			"email": "s.petrov@hellohungry.com",
+			"role": "Author"
+		},
+		{
 			"name": "Ivan Kerin",
 			"email": "ivan@openbuildings.com",
 			"role": "Author"
