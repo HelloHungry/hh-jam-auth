@@ -1,5 +1,7 @@
 # Jam driver for Kohana Auth
 
+This is updated version of original `jam-auth` package that should use new version of Facebook SDK that will be supported after 10th of July 2017. It will completely replace the old Facebook integration.
+
 [![Build Status](https://travis-ci.org/OpenBuildings/jam-auth.png?branch=master)](https://travis-ci.org/OpenBuildings/jam-auth)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/OpenBuildings/jam-auth/badges/quality-score.png?s=68a5ca77373bb9a3d22606d669dde6ebbf30dd34)](https://scrutinizer-ci.com/g/OpenBuildings/jam-auth/)
 [![Code Coverage](https://scrutinizer-ci.com/g/OpenBuildings/jam-auth/badges/coverage.png?s=ad67efde8a55430c4ee7466683a55711a15825c8)](https://scrutinizer-ci.com/g/OpenBuildings/jam-auth/)

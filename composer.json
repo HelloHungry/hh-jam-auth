@@ -1,11 +1,16 @@
 {
-	"name": "openbuildings/jam-auth",
+	"name": "hello-hungry/jam-auth",
 	"type": "kohana-module",
 	"description": "This is a Kohana Auth driver, for Jam",
 	"keywords": ["kohana", "auth", "jam", "facebook", "login", "authentication"],
 	"homepage": "https://github.com/OpenBuildings/jam-auth",
 	"license": "BSD-3-Clause",
 	"authors": [
+		{
+			"name": "Stefan Petrov",
+			"email": "s.petrov@hellohungry.com",
+			"role": "Author"
+		},
 		{
 			"name": "Ivan Kerin",
 			"email": "ivan@openbuildings.com",
