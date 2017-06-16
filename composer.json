@@ -1,5 +1,5 @@
 {
-	"name": "openbuildings/hh-jam-auth",
+	"name": "HelloHungry/jam-auth",
 	"type": "kohana-module",
 	"description": "This is a Kohana Auth driver, for Jam",
 	"keywords": ["kohana", "auth", "jam", "facebook", "login", "authentication"],
