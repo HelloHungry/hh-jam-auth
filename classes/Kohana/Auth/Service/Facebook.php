@@ -20,7 +20,7 @@ abstract class Kohana_Auth_Service_Facebook extends Auth_Service {
 
 	public function initialize()
 	{
-		return new Facebook(Arr::get($this->_config, 'auth'));
+		return new \Facebook\Facebook(Arr::get($this->_config, 'auth'));
 	}
 
 	public function logged_in()

@@ -24,12 +24,6 @@
 		"kohana/core": "^3.3.0",
 		"kohana/auth": "^3.3.0"
 	},
-	"require-dev": {
-		"kohana/database": "^3.3.0",
-		"phpunit/phpunit": ">=4.0,<6.0",
-		"facebook/graph-sdk": "^5.5",
-		"openbuildings/kohana-test-bootstrap": "^0.2"
-	},
 	"config": {
 		"platform": {
 			"php": "5.4"
